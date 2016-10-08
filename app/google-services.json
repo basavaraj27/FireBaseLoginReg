@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "427604557414",
+    "firebase_url": "https://fir-loginreg-46187.firebaseio.com",
+    "project_id": "fir-loginreg-46187",
+    "storage_bucket": "fir-loginreg-46187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427604557414:android:bd53f217cfa5dbfa",
+        "android_client_info": {
+          "package_name": "com.example.basu.firebaseloginreg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427604557414-e2915sm9fcdt3g2qunu1ror13815b0uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_JdhVs4VgWcVZdrXaSCsFUqgJyA7Axc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
